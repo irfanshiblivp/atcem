@@ -13,5 +13,8 @@ A web-based system to manage attendance with real-time student access, teacher l
 HTML, CSS, JavaScript, Airtable API
 
 
+Check How it Runs : irfanshiblivp.github.io/atcem
+
+
 note: 
 This project is for educational/demo purposes only. Redistribution or reuse is not permitted without permission.
